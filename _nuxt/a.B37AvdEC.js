@@ -1,0 +1,1 @@
+import{_ as o,v as t,z as a,x as n,i as c,t as s}from"./entry.Zkr9X4DU.js";const r={},_=n("h1",null,"a.vue",-1);function d(l,f){const e=c("footer-ad");return s(),t("div",null,[_,a(e)])}const m=o(r,[["render",d]]);export{m as default};
