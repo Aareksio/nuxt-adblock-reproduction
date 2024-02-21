@@ -1,0 +1,1 @@
+import{_ as o}from"./footer-ad-slot.CcipO00c.js";import{_ as t,v as n,z as _,x as c,t as s}from"./entry.igTmbc2t.js";const r={},a=c("h1",null,"index.vue",-1);function d(l,f){const e=o;return s(),n("div",null,[a,_(e)])}const p=t(r,[["render",d]]);export{p as default};
